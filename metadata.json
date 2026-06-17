@@ -1,0 +1,6 @@
+{
+  "name": "Tótem de Señalética CEA",
+  "description": "Señalética interactiva y núcleo de Inteligencia Ambiental Cognitiva del Centro de Educación Ambiental bago la Ley 19.300 de Chile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
